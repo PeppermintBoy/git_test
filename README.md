@@ -1,0 +1,1 @@
+This is CanadianSamurai's very first git project. YeeHaa!
